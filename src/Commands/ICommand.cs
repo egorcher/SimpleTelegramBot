@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Telegram.Bot.Types;
 
-namespace TelegrammBott
+namespace TelegrammBott.Commands
 {
     public interface ICommand
     {

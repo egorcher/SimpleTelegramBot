@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot;
+using TelegrammBott.Commands;
 
 namespace TelegrammBott
 {

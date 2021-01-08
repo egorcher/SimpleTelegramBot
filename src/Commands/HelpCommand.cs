@@ -5,7 +5,7 @@ using Telegram.Bot;
 using Telegram.Bot.Types;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace TelegrammBott
+namespace TelegrammBott.Commands
 {
     public class HelpCommand : ICommand
     {
